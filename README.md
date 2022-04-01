@@ -18,7 +18,7 @@ Azure bot services,cognitive services and Qna maker is used for this project.azu
 
 Eccafebot is deployed on telegram with name @Eccafebot
 
-https://telegram.me/Ecca![Uploading Screenshot (522).png…]()
+https://telegram.me/Eccafebot
 
 
 ![image](https://user-images.githubusercontent.com/92110686/161278553-b45b761e-c909-4558-813a-1939ee888e33.png)
