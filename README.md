@@ -8,5 +8,8 @@ This webchatbot is hosted in google sites.Its hosted at microsoft azure- https:/
 ![Screenshot (517)](https://user-images.githubusercontent.com/92110686/161277561-1e4a5045-84e8-46a3-962d-c3014c04faab.png)
 ![Screenshot (518)](https://user-images.githubusercontent.com/92110686/161277570-f7a41966-5d23-4085-ba08-ca02b052bb42.png)
 ![Screenshot (519)](https://user-images.githubusercontent.com/92110686/161277579-0c4e7d57-aa80-4c7d-8a55-c9ff3cea9b4e.png)
-![Screenshot (520)](https://user-images.githubusercontent.com/92110686/161277590-7f78e5c3-97b8-4416-8958-947e5d26f7f2.png)
-![Screenshot (521)](https://user-images.githubusercontent.com/92110686/161277607-6e33d7ef-321a-42ff-a10d-6425e0d135fb.png)
+Eccafebot is deployed on telegram with name @Eccafebot
+https://telegram.me/Eccafebot
+![image](https://user-images.githubusercontent.com/92110686/161278553-b45b761e-c909-4558-813a-1939ee888e33.png)
+
+
